@@ -8,7 +8,7 @@ on:
         name:
           description: 'Run?'
           required: true
-          default: 'YES!'
+          default: 'YES!' 
  
 jobs:
   build-win:
